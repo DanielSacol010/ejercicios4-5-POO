@@ -4,7 +4,7 @@ Aplicación desarrollada en **Java** para gestionar el alquiler de distintos tip
 
 El proyecto implementa **herencia**, **polimorfismo** y una separación de responsabilidades basada en el patrón arquitectónico **MVC (Modelo–Vista–Controlador)**.
 
-## 👤 Información del estudiante
+## 👤 Información
 
 - **Nombre:** Daniel Eduardo Sacol Cojón
 - **Carné:** 26870
@@ -74,10 +74,4 @@ La carpeta `bin/` se crea automáticamente al compilar y contiene los archivos `
 - [Diagrama UML](docs/UML.png)
 - [Pruebas del sistema](docs/pruebas.pdf)
 
-## 🎯 Objetivo académico
 
-El objetivo del proyecto es aplicar los fundamentos de la Programación Orientada a Objetos en un sistema práctico de gestión de alquiler de vehículos, demostrando el uso de jerarquías de clases, reutilización de código, polimorfismo y organización mediante MVC.
-
-## 📄 Licencia
-
-Este proyecto fue desarrollado con fines académicos.
